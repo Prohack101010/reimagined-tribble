@@ -6,6 +6,15 @@ Known issues in the beta:
 - Some options are missing
 - Week 6 still have no dialogue
 
+## Mobile Credits:
+* Lily - Head Porter
+* Karim - Assistant Porter/Helper #1
+* Hoovy - Helper #2
+
+### Mobile Special Thanks
+* Mihai Alexandru - Author of mobile controls and also his new storage stuff and FlxRuntimeShader is used here
+* FutureDorito - iOS Helper/Implementer
+
 ## Codename Engine
 
 Codename Engine is a new Friday Night Funkin' Engine aimed at simplifying modding, along with extensiblity and ease of use.
